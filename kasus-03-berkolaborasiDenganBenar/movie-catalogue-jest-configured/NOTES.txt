@@ -1,0 +1,20 @@
+Pada kesempatan ini, kita akan membuat Contract Test untuk Favorite Movies. 
+Dengan cara ini, LikeButtonPresenter tidak peduli objek yang dia terima, 
+selama objek tersebut memenuhi kontrak untuk mengelola film yang disukai.
+
+Daftar kontrak yang perlu dimiliki oleh Favorite Movies:
+- Dapat mengembalikan film yang tersimpan berdasarkan kunci tertentu.
+- Dapat mengembalikan semua film kesukaan yang sudah tersimpan.
+- Dapat menambahkan film baru ke daftar film yang disukai.
+- Bila data film tidak mengandung properti yang dibutuhkan, bangkitkan error. Jangan sampai aplikasi berhenti berjalan.
+- Dapat menghapus film dari daftar film yang disukai.
+- Bila film tidak ada, jangan terjadi error.
+
+Lesson:
+Selama sebuah objek dapat menjalankan suatu tanggung jawab spesifik dan ada buktinya, 
+kita akan merasa aman untuk berkolaborasi dengan objek tersebut.
+
+Pada kasus ketiga ini, kita mencoba menerapkan salah satu prinsip yang penting dalam desain kode, 
+yaitu mengurangi pengetahuan antar objek. Caranya dengan menerapkan Dependency Inversion Principle (DIP). 
+Ia adalah salah satu prinsip dalam SOLID.
+

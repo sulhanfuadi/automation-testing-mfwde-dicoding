@@ -1,0 +1,1 @@
+The starter project in this case uses the case 2 project that was obtained in the previous case.

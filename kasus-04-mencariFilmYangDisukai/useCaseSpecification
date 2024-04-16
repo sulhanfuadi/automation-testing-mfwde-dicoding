@@ -1,0 +1,13 @@
+Use Case dan Spesifikasi
+
+Posibilitas bila pengguna memasukkan kueri pencarian "film A":
+- Presenter akan meminta ke Model untuk memberikan film yang disukai yang cocok dengan pencarian "film A".
+- Presenter akan menampilkan semua film yang dikembalikan oleh Model ke View (DOM).
+
+Posibilitas bila pengguna memasukkan kueri pencarian kosong seperti "", " ", atau tab:
+- Presenter akan meminta Model untuk memberikan semua film yang disukai.
+- Presenter akan menampilkan semua film yang disukai yang telah diberikan oleh Model ke View.
+
+Posibilitas bila pengguna memasukkan kueri pencarian dan tidak ada film yang cocok:
+- Presenter meminta Model untuk mencari film.
+- Presenter akan menampilkan informasi "tidak ada film yang ditemukan" pada View.

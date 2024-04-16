@@ -1,0 +1,8 @@
+LESSON
+ - Menggunakan teknik mata-mata sehingga kita dapat fokus menerapkan TDD untuk membangun fitur mencari film yang disukai.
+Implementasi objek yang dimata-matai baru dikerjakan ketika tahapan TDD untuk objek utama sudah selesai dikerjakan.
+ - Menerapkan architecture MVP.
+ - Menghapus tes yang tidak perlu.
+ - Tidak bergantung pada method private.
+ - Belajar secara bertahap tentang cara mempertemukan dua skenario yang sedikit berbeda dengan cara memaksimalkan code reuse.
+Hal yang tak kalah pentingnya, kita belajar melakukannya dengan cara yang tidak merusak tes yang sudah ada.

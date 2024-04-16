@@ -1,0 +1,6 @@
+
+
+<<< Recorded commands on Tue Apr 16 2024 15:54:10 GMT+0700 (Western Indonesia Time)
+I.seeElement('.movie__title');
+I.click(locate('.movie__title a').first());
+I.click(locate('.movie__title').first());

@@ -1,0 +1,20 @@
+LESSON
+Anda telah belajar bahwa untuk memulai tes, kita sebaiknya membedah terlebih dahulu spesifikasi yang akan dikerjakan. 
+Ini akan membantu kita untuk mengetahui hal yang harus dites. 
+Bila tahu sesuatu yang harus dites, kita juga tahu kode aplikasi yang harus kita tulis.
+
+Kita juga belajar menerapkan pengujian dengan teknik TDD untuk mengatasi beragam masalah yang dihadapi 
+saat melakukan pengembangan aplikasi. Misalnya, kita belajar melakukan troubleshooting melalui tes. 
+ita belajar melihat kondisi dari UI dengan memanfaatkan fitur pause() pada CodeceptJS. 
+Kita juga telah belajar melakukan perubahan pada sistem dengan cara yang meminimalisasi kerusakan pada tes dan kode yang ada.
+
+Itulah pembelajaran yang telah kita lakukan. Namun, TDD bukanlah “ini saja”. 
+Masih banyak yang bisa Anda eksplorasi darinya yang tidak kita singgung selama ini.
+
+Bila Anda dapat menerapkan TDD pada produk yang sedang Anda bangun, maksimalkan peluang tersebut. 
+Jangan sia-siakan. Bagaimana bila belum memperoleh kesempatan seperti itu? 
+Buatlah aplikasi sederhana yang Anda bangun menggunakan teknik TDD secara disiplin. 
+Seiring waktu, tambahkan kemampuan dari aplikasi sehingga Anda memperoleh beragam kasus yang menarik untuk diselesaikan dengan TDD.
+
+Menurut hemat kami, TDD adalah salah satu kemampuan penting yang layak dimiliki dan diasah terus oleh para engineer. 
+Teruslah belajar. Semoga sukses dalam perjalanan Anda untuk memberi dampak yang besar dan berarti bagi kehidupan ini.
